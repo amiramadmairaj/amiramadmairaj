@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiramadmairaj
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning Computer Science and Engineering
+- 🌱 I’m currently learning Computer Science at UCI
 
 
 <!---
