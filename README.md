@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amiramadmairaj
-- 👀 I’m interested in CS
-- 🌱 I’m currently finishing up my degree in Computer Science at UCI
+- 👀 I’m am a Software Engineer at Peraton
 
 
 <!---
